@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: */tags/
+
+sitemap: https://petemillsdev.com/sitemap.xml
